@@ -1,6 +1,6 @@
 # HelloWorld von Sarah Seifert
 
-![alt text](https://i.ibb.co/fM0mthz/Anwendung.jpg "BILD ANWENDUNG")
+![alt text](https://i.ibb.co/fM0mthz/Anwendung.jpg "Bild Anwendung")
 
 Dies ist eine Hello World Anwendung in der Programmiersprache C.
 
