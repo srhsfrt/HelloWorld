@@ -1,6 +1,6 @@
 # HelloWorld von Sarah Seifert
 
-BILD ANWENDUNG
+![alt text](https://ibb.co/LSp46LX "BILD ANWENDUNG")
 
 Dies ist eine Hello World Anwendung in der Programmiersprache C.
 
@@ -10,7 +10,8 @@ Die Anwendung muss auf einem Windows PC durchgeführt werden.
 
 # Installation und Ausführung auf 
 
-BILD DURCHFÜHRUNG
+![alt text](https://ibb.co/HTtkw64 "Bild Durchführung")
+
 
 Zum Durchführen der Anwendung muss zuerst die Kommandozeile geöffnet werden und hier in den Speicherort der Anwendung auf dem PC navigiert werden.
 Im Anschluss muss das Kommando *gcc HelloWorld.c* durchgeführt werden durch welches eine Datei *a* erstellt wird.
